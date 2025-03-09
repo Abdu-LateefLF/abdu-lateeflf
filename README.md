@@ -5,7 +5,7 @@ I'm Abdu-Lateef Lekan-Fadeyi, a Software Engineering student at the University o
 - 🌱 I’m currently learning machine learning, exploring model optimization, feature engineering, and deployment! 🤖
 - 🤔 I recently built a program that classifies political figures from images using machine learning! 🚀 Check it out [here](https://github.com/Abdu-LateefLF/political-figure-classifier)
 - ⚡ Fun fact: I started programming at 13, creating small games in C# with Unity3D, and I've been coding ever since. 🧠
-- 📫 You can reach me at alekanfa@uoguelph.ca
+- 📫 You can reach me at lekanf.tomiwa@gmail.com
 
 <!--
 **Abdu-LateefLF/abdu-lateeflf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
