@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning ...
+- 🤔  I recently built a program that classifies political figures from images using machine learning! 🚀 Check it out [here](https://github.com/Abdu-LateefLF/political-figure-classifier)
+- ⚡ Fun fact: I started programming at 13! I began by building small games in C# with Unity, and I've been coding ever since. 🎮
+- 📫 You can reach me at alekanfa@uoguelph.ca
+
 <!--
 **Abdu-LateefLF/abdu-lateeflf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +17,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
